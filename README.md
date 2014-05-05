@@ -1,7 +1,7 @@
 ChatServer
 ==========
 
-A chat server written using sockets in C++. The server runs on port 9999
+A chat server written using sockets in C++. The server runs on port 9999.
 The server accepts the following commands: 
 
 1. CHAT - server connect
